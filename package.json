@@ -1,0 +1,26 @@
+{
+  "name": "bingo",
+  "version": "1.0.0",
+  "description": "bingo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^13.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darknautic/bingo.git"
+  },
+  "keywords": [
+    "bingo"
+  ],
+  "author": "Nautikos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darknautic/bingo/issues"
+  },
+  "homepage": "https://github.com/darknautic/bingo#readme"
+}
